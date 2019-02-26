@@ -1,0 +1,16 @@
+# Updated on Sat Aug  6 10:57:01 HKT 2016
+[apache2]
+localhost.localdomain	ansible_connection=local
+
+[java]
+localhost.localdomain	ansible_connection=local
+
+[jira]
+localhost.localdomain	ansible_connection=local
+
+[mysql]
+localhost.localdomain	ansible_connection=local
+
+[postgresql]
+localhost.localdomain	ansible_connection=local
+

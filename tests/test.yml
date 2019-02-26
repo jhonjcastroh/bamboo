@@ -1,0 +1,4 @@
+---
+# test file for jira
+
+- include: ../playbooks/setup-everything.yml

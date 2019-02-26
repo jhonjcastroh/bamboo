@@ -1,0 +1,6 @@
+---
+
+- hosts: java
+  remote_user: root
+  roles:
+    - hswong3i.java
